@@ -17,6 +17,16 @@ body {
 	font-size: 30px;
 }
 
+.explanation {
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size: 40px;
+}
+
+.explanation:hover {
+	color: blue;
+}
+
 #button {
 	border-radius: 4px;
 	width: 200px;
